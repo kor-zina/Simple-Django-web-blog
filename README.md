@@ -1,2 +1,2 @@
 # testKodland
-Simple blog website
+Simple Django-powered blog website with PostgreSQL data base
